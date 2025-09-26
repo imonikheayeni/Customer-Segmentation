@@ -487,6 +487,9 @@ Tatsat, H., Puri, S., & Lookabaugh, B. (2020). *Machine learning and data scienc
 ---
 
 **Author Information:** Imonikhe Ayeni
+
 **Correspondence:** iayeni@cardiffmet.ac.uk, +44 07901364528
+
 **Data Availability:** Code and documentation available here
+
 **Ethics Statement:** This research uses publicly available, anonymized survey data in compliance with Federal Reserve data use policies.
