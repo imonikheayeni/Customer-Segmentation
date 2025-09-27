@@ -262,6 +262,7 @@ def find_optimal_clusters(data, max_clusters=10):
     
     return cluster_range, inertias, silhouette_scores
 ```
+![](https://i.imgur.com/ClF0wGZ.png)
 
 **Code Explanation**: This function systematically evaluates clustering performance across different numbers of clusters using two complementary metrics: within-cluster sum of squares (inertia) for the elbow method, and silhouette score for cluster separation quality.
 
