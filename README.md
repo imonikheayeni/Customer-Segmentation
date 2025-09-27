@@ -1,6 +1,6 @@
 # Unsupervised Machine Learning Analysis of Credit-Constrained Households: A Clustering Approach Using the 2019 Survey of Consumer Finances
 
-                                                            by Imonikhe Ayeni
+                                                           by Imonikhe Ayeni
 
 ## Abstract
 
@@ -402,7 +402,7 @@ def create_cluster_comparison_visualization(df, features, cluster_col='cluster')
     
     return fig
 ```
-
+![](https://i.imgur.com/RL4YyaO.png)
 **Code Explanation**: This visualization function creates side-by-side bar charts comparing cluster characteristics across multiple features, enabling stakeholders to quickly identify distinguishing characteristics of each segment.
 
 ### 4.4 Model Validation and Performance Metrics
